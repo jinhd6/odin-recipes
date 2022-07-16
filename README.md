@@ -1,0 +1,1 @@
+I'm creating a website about recipes to practice what I've learned. I will do a simple implementation using HTML and Git.
